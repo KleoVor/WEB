@@ -51,7 +51,7 @@ class CallBackNegativeTest {
     @Test
     void NameNoSurname() throws InterruptedException {
 
-        // Этот тест не проходит, хотя должно быть Имя и Фамилия. Т.е. должен быть пробел в поле Надо оформить Ussue
+        // Этот тест не проходит, хотя должно быть Имя и Фамилия. Т.е. должен быть пробел в поле Надо оформить issue
 
         open("http://localhost:9999");
         SelenideElement form = $(".form_theme_alfa-on-white");
