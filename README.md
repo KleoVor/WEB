@@ -1,5 +1,9 @@
 [![Java CI with Gradle](https://github.com/KleoVor/WEB/actions/workflows/gradle.yml/badge.svg)](https://github.com/KleoVor/WEB/actions/workflows/gradle.yml)
 
+# Внимание! 
+Проверка CI показывает ошибку, т.к. один из негативных тестов нашел баг в коде, заведен issue на баг.
+Остальные негативные тесты проходят проходят
+
 
 # Задача 1
 Необходимо автоматизировать тестирование формы заказа карты.
